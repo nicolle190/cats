@@ -14,7 +14,7 @@ function lampOn () {
 
 function lampOff () {
     if ( !isLampBroken () ) {
-        lamp.src = './img/desligada.jpg';
+        lamp.src = './img/desligada (1).jpg';
     }
 }
 
